@@ -1,4 +1,4 @@
-# Task3-MULTITHREADED-CHAT-APPLICAT
+# Task3-MULTITHREADED-CHAT-APPLICATION
 # COMPANY : CODTECH IT SOLUTIONS
 # NAME : Prem Prakash Sudhanshu
 # INTERN ID : CT08DL412
@@ -36,3 +36,4 @@ Building interactive systems like messaging apps, multiplayer games, and remote 
 
 Interns should store their code in a GitHub repository and make sure the solution is properly documented. They are encouraged to use learning resources such as YouTube tutorials, Google, and ChatGPT to understand core networking and threading concepts.
 
+# <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e923e204-dc2b-43dc-a8e0-fb4d7a946613" />
